@@ -1,0 +1,13 @@
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\bin\Debug\ユーザメンテナンス.exe
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\bin\Debug\STUDY.mdf
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\bin\Debug\STUDY_log.ldf
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\bin\Debug\ユーザメンテナンス.exe.config
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.csproj.AssemblyReference.cache
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.Properties.Resources.resources
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.UserList.resources
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.UserMaintenance.resources
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.csproj.GenerateResource.cache
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.csproj.CoreCompileInputs.cache
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.exe
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\obj\Debug\ユーザメンテナンス.pdb
+C:\Users\ユーザー\source\repos\ユーザメンテナンス\bin\Debug\ユーザメンテナンス.pdb
